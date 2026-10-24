@@ -1,0 +1,4 @@
+# Lead data, caches and snapshots stay on this computer and out of version control.
+data/
+node_modules/
+*.log
